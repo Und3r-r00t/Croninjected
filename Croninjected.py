@@ -3,7 +3,7 @@ import os
 print('''
 \033[1;31m
 ==============injction Payload in crontab==============
-Use your real ip or use dnsexit & noip to get static ip
+Note: Use your real IP or use dynamic DNS service to get static ip
 ================ Coded By : Und3r-r00t ================\033[1;m
     ''')
 
